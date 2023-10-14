@@ -1,5 +1,5 @@
 import './App.css';
-import { ShopItemFunc } from './components/ShopItemFunc';
+import { ShopItemClass } from './components/ShopItemClass';
 
 const itemData = {
   brand: 'Tiger of Sweden',
@@ -11,7 +11,7 @@ const itemData = {
 }
 
 function App() {
-  return <ShopItemFunc item = {itemData} /> 
+  return <ShopItemClass item = {itemData} /> 
 }
 
 export default App
