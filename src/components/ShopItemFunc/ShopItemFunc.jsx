@@ -1,4 +1,3 @@
-import './ShopItemFunc.css';
 import PropTypes from 'prop-types';
 
 export const ShopItemFunc = (props) => {

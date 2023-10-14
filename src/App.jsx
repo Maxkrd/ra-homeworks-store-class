@@ -1,3 +1,4 @@
+import './App.css';
 import { ShopItemFunc } from './components/ShopItemFunc';
 
 const itemData = {
